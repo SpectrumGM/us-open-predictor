@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>US Open Predictor</title>
+<style>
+ body{font-family:system-ui,sans-serif;max-width:560px;margin:40px auto;padding:0 16px;color:#222}
+ select,button{font-size:16px;padding:8px;margin:4px 0;width:100%}
+ button{background:#1f4e8c;color:#fff;border:0;border-radius:6px;cursor:pointer}
+ .bar{display:flex;height:34px;border-radius:6px;overflow:hidden;margin-top:16px;color:#fff;font-weight:600}
+ .bar div{display:flex;align-items:center;justify-content:center;white-space:nowrap}
+ small{color:#666;display:block;margin-top:20px;line-height:1.4}
+</style></head><body>
+<h2>Match win probability</h2>
+<select id="a"></select>
+<select id="b"></select>
+<select id="surface"><option>Hard</option><option>Clay</option><option>Grass</option></select>
+<select id="bo"><option value="5">Best of 5</option><option value="3">Best of 3</option></select>
+<button id="go">Predict</button>
+<div id="out"></div>
+<small>Logistic regression on Elo, surface Elo, rank, form. Rest days and head-to-head are set
+to neutral for hypothetical matches. Does not beat bookmaker odds (see README).</small>
+<script>
+const $ = id => document.getElementById(id);
+fetch("/players").then(r => r.json()).then(list => {
+  for (const sel of [$("a"), $("b")])
+    for (const p of list) {
+      const o = document.createElement("option");
+      o.value = p.name; o.textContent = p.name + (p.rank ? " (#" + p.rank + ")" : "");
+      sel.appendChild(o);
+    }
+  $("b").selectedIndex = 1;
+});
+$("go").onclick = async () => {
+  const q = new URLSearchParams({a: $("a").value, b: $("b").value,
+    surface: $("surface").value, best_of: $("bo").value});
+  const r = await fetch("/predict?" + q);
+  const j = await r.json();
+  if (!r.ok) { $("out").textContent = j.detail; return; }
+  const pa = (j.p_a * 100).toFixed(1), pb = (j.p_b * 100).toFixed(1);
+  $("out").innerHTML = '<div class="bar"><div style="width:' + pa + '%;background:#1f4e8c"></div>' +
+    '<div style="width:' + pb + '%;background:#c0504d"></div></div>';
+  const bar = $("out").querySelectorAll(".bar div");
+  bar[0].textContent = j.a + " " + pa + "%"; bar[1].textContent = j.b + " " + pb + "%";
+};
+</script></body></html>
