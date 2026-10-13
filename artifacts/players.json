@@ -1,0 +1,3052 @@
+{
+ "as_of": "2026-10-06",
+ "players": {
+  "Added D.": {
+   "elo": 1483.0,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 204,
+   "form": 0.5,
+   "last_match": "2025-11-05"
+  },
+  "Alcaraz C.": {
+   "elo": 2141.8,
+   "selo": {
+    "Hard": 2037.8,
+    "Clay": 2022.4,
+    "Grass": 1870.9
+   },
+   "rank": 3,
+   "form": 0.7,
+   "last_match": "2026-10-06"
+  },
+  "Altmaier D.": {
+   "elo": 1595.3,
+   "selo": {
+    "Hard": 1520.6,
+    "Clay": 1551.4,
+    "Grass": 1504.5
+   },
+   "rank": 57,
+   "form": 0.5,
+   "last_match": "2026-09-02"
+  },
+  "Arnaldi M.": {
+   "elo": 1597.5,
+   "selo": {
+    "Hard": 1544.2,
+    "Clay": 1677.7,
+    "Grass": 1433.0
+   },
+   "rank": 37,
+   "form": 0.433,
+   "last_match": "2026-10-03"
+  },
+  "Atmane T.": {
+   "elo": 1604.4,
+   "selo": {
+    "Hard": 1608.8,
+    "Clay": 1502.6,
+    "Grass": 1477.4
+   },
+   "rank": 83,
+   "form": 0.433,
+   "last_match": "2026-09-24"
+  },
+  "Auger-Aliassime F.": {
+   "elo": 1823.0,
+   "selo": {
+    "Hard": 1833.1,
+    "Clay": 1654.1,
+    "Grass": 1648.8
+   },
+   "rank": 5,
+   "form": 0.633,
+   "last_match": "2026-09-30"
+  },
+  "Baadi T.": {
+   "elo": 1498.5,
+   "selo": {
+    "Clay": 1501.4
+   },
+   "rank": 587,
+   "form": 0.5,
+   "last_match": "2026-04-01"
+  },
+  "Baez S.": {
+   "elo": 1605.6,
+   "selo": {
+    "Hard": 1543.1,
+    "Clay": 1629.8,
+    "Grass": 1446.0
+   },
+   "rank": 51,
+   "form": 0.5,
+   "last_match": "2026-10-01"
+  },
+  "Bailly G.A.": {
+   "elo": 1516.0,
+   "selo": {
+    "Hard": 1519.0
+   },
+   "rank": 247,
+   "form": 0.583,
+   "last_match": "2025-10-15"
+  },
+  "Balshaw F.": {
+   "elo": 1482.8,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 257,
+   "form": 0.5,
+   "last_match": "2026-08-25"
+  },
+  "Barrena A.": {
+   "elo": 1466.2,
+   "selo": {
+    "Clay": 1483.2
+   },
+   "rank": 183,
+   "form": 0.417,
+   "last_match": "2026-02-23"
+  },
+  "Barrios M.": {
+   "elo": 1416.0,
+   "selo": {
+    "Hard": 1472.5,
+    "Clay": 1432.4,
+    "Grass": 1509.3
+   },
+   "rank": 144,
+   "form": 0.233,
+   "last_match": "2026-08-31"
+  },
+  "Basavareddy N.": {
+   "elo": 1529.3,
+   "selo": {
+    "Hard": 1561.2,
+    "Clay": 1493.3,
+    "Grass": 1462.3
+   },
+   "rank": 163,
+   "form": 0.433,
+   "last_match": "2026-09-01"
+  },
+  "Basilashvili N.": {
+   "elo": 1559.7,
+   "selo": {
+    "Hard": 1536.7,
+    "Clay": 1544.3,
+    "Grass": 1539.6
+   },
+   "rank": 145,
+   "form": 0.567,
+   "last_match": "2026-09-28"
+  },
+  "Basing M.": {
+   "elo": 1481.2,
+   "selo": {
+    "Grass": 1500.0
+   },
+   "rank": 329,
+   "form": 0.5,
+   "last_match": "2026-06-29"
+  },
+  "Bautista Agut R.": {
+   "elo": 1575.3,
+   "selo": {
+    "Hard": 1550.9,
+    "Clay": 1556.1,
+    "Grass": 1642.4
+   },
+   "rank": 183,
+   "form": 0.367,
+   "last_match": "2026-06-29"
+  },
+  "Bellucci M.": {
+   "elo": 1565.2,
+   "selo": {
+    "Hard": 1519.7,
+    "Clay": 1498.7,
+    "Grass": 1531.0
+   },
+   "rank": 88,
+   "form": 0.433,
+   "last_match": "2026-09-24"
+  },
+  "Bennani K.": {
+   "elo": 1511.2,
+   "selo": {
+    "Clay": 1519.6
+   },
+   "rank": 731,
+   "form": 0.583,
+   "last_match": "2026-04-01"
+  },
+  "Bennani R.": {
+   "elo": 1484.9,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 555,
+   "form": 0.5,
+   "last_match": "2026-03-31"
+  },
+  "Bergs Z.": {
+   "elo": 1641.9,
+   "selo": {
+    "Hard": 1603.9,
+    "Clay": 1495.0,
+    "Grass": 1553.0
+   },
+   "rank": 38,
+   "form": 0.5,
+   "last_match": "2026-10-01"
+  },
+  "Bernet H.": {
+   "elo": 1493.7,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 481,
+   "form": 0.5,
+   "last_match": "2025-10-20"
+  },
+  "Berrettini M.": {
+   "elo": 1723.2,
+   "selo": {
+    "Hard": 1682.6,
+    "Clay": 1766.7,
+    "Grass": 1756.9
+   },
+   "rank": 47,
+   "form": 0.567,
+   "last_match": "2026-10-03"
+  },
+  "Bertola R.": {
+   "elo": 1491.0,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 268,
+   "form": 0.5,
+   "last_match": "2025-10-20"
+  },
+  "Blanch Dar.": {
+   "elo": 1475.1,
+   "selo": {
+    "Hard": 1470.7
+   },
+   "rank": 245,
+   "form": 0.375,
+   "last_match": "2026-09-01"
+  },
+  "Blanchet U.": {
+   "elo": 1493.4,
+   "selo": {
+    "Hard": 1495.1,
+    "Clay": 1506.0
+   },
+   "rank": 174,
+   "form": 0.367,
+   "last_match": "2026-02-05"
+  },
+  "Blockx A.": {
+   "elo": 1688.4,
+   "selo": {
+    "Hard": 1530.9,
+    "Clay": 1684.3,
+    "Grass": 1480.7
+   },
+   "rank": 27,
+   "form": 0.633,
+   "last_match": "2026-09-30"
+  },
+  "Boitan G.A.": {
+   "elo": 1480.9,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 306,
+   "form": 0.5,
+   "last_match": "2026-03-31"
+  },
+  "Bolt A.": {
+   "elo": 1522.2,
+   "selo": {
+    "Hard": 1503.7,
+    "Clay": 1517.3,
+    "Grass": 1431.3
+   },
+   "rank": 165,
+   "form": 0.433,
+   "last_match": "2026-09-24"
+  },
+  "Bonzi B.": {
+   "elo": 1685.2,
+   "selo": {
+    "Hard": 1644.9,
+    "Clay": 1502.7,
+    "Grass": 1523.4
+   },
+   "rank": 97,
+   "form": 0.633,
+   "last_match": "2026-09-05"
+  },
+  "Boogaard T.": {
+   "elo": 1508.1,
+   "selo": {
+    "Hard": 1500.0,
+    "Grass": 1515.8
+   },
+   "rank": 779,
+   "form": 0.5,
+   "last_match": "2026-06-12"
+  },
+  "Borg L.": {
+   "elo": 1477.1,
+   "selo": {
+    "Hard": 1470.8,
+    "Clay": 1501.6
+   },
+   "rank": 622,
+   "form": 0.346,
+   "last_match": "2025-10-15"
+  },
+  "Borges N.": {
+   "elo": 1690.2,
+   "selo": {
+    "Hard": 1634.4,
+    "Clay": 1630.8,
+    "Grass": 1522.1
+   },
+   "rank": 49,
+   "form": 0.567,
+   "last_match": "2026-09-30"
+  },
+  "Boyer T.": {
+   "elo": 1513.1,
+   "selo": {
+    "Hard": 1530.1,
+    "Clay": 1465.7,
+    "Grass": 1500.0
+   },
+   "rank": 162,
+   "form": 0.367,
+   "last_match": "2026-07-28"
+  },
+  "Brancaccio R.": {
+   "elo": 1471.3,
+   "selo": {
+    "Clay": 1485.9
+   },
+   "rank": 241,
+   "form": 0.417,
+   "last_match": "2026-05-18"
+  },
+  "Brooksby J.": {
+   "elo": 1624.4,
+   "selo": {
+    "Hard": 1628.1,
+    "Clay": 1520.8,
+    "Grass": 1572.2
+   },
+   "rank": 77,
+   "form": 0.5,
+   "last_match": "2026-09-27"
+  },
+  "Bu Y.": {
+   "elo": 1567.2,
+   "selo": {
+    "Hard": 1568.1,
+    "Clay": 1443.1,
+    "Grass": 1478.8
+   },
+   "rank": 104,
+   "form": 0.5,
+   "last_match": "2026-10-02"
+  },
+  "Bublik A.": {
+   "elo": 1765.1,
+   "selo": {
+    "Hard": 1715.8,
+    "Clay": 1669.2,
+    "Grass": 1707.7
+   },
+   "rank": 20,
+   "form": 0.567,
+   "last_match": "2026-10-01"
+  },
+  "Budkov Kjaer N.": {
+   "elo": 1479.1,
+   "selo": {
+    "Hard": 1470.0,
+    "Clay": 1522.2
+   },
+   "rank": 118,
+   "form": 0.346,
+   "last_match": "2026-07-14"
+  },
+  "Bueno G.": {
+   "elo": 1502.7,
+   "selo": {
+    "Clay": 1517.2
+   },
+   "rank": 180,
+   "form": 0.583,
+   "last_match": "2026-07-23"
+  },
+  "Burruchaga R.": {
+   "elo": 1546.0,
+   "selo": {
+    "Hard": 1471.0,
+    "Clay": 1589.5,
+    "Grass": 1482.5
+   },
+   "rank": 59,
+   "form": 0.5,
+   "last_match": "2026-08-31"
+  },
+  "Buse I.": {
+   "elo": 1658.7,
+   "selo": {
+    "Hard": 1553.6,
+    "Clay": 1632.2,
+    "Grass": 1524.8
+   },
+   "rank": 35,
+   "form": 0.567,
+   "last_match": "2026-10-01"
+  },
+  "Butvilas E.": {
+   "elo": 1516.9,
+   "selo": {
+    "Clay": 1517.8
+   },
+   "rank": 253,
+   "form": 0.583,
+   "last_match": "2026-05-20"
+  },
+  "Cadenasso G.": {
+   "elo": 1488.4,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 196,
+   "form": 0.5,
+   "last_match": "2026-05-07"
+  },
+  "Carballes Baena R.": {
+   "elo": 1546.8,
+   "selo": {
+    "Hard": 1513.7,
+    "Clay": 1578.1,
+    "Grass": 1429.2
+   },
+   "rank": 175,
+   "form": 0.3,
+   "last_match": "2026-02-17"
+  },
+  "Carreno Busta P.": {
+   "elo": 1616.9,
+   "selo": {
+    "Hard": 1620.2,
+    "Clay": 1647.4,
+    "Grass": 1487.2
+   },
+   "rank": 66,
+   "form": 0.367,
+   "last_match": "2026-10-02"
+  },
+  "Cassone M.": {
+   "elo": 1476.6,
+   "selo": {
+    "Hard": 1500.0,
+    "Grass": 1500.0
+   },
+   "rank": 291,
+   "form": 0.417,
+   "last_match": "2026-06-24"
+  },
+  "Cazaux A.": {
+   "elo": 1619.3,
+   "selo": {
+    "Hard": 1566.0,
+    "Clay": 1567.9,
+    "Grass": 1505.8
+   },
+   "rank": 73,
+   "form": 0.5,
+   "last_match": "2026-03-21"
+  },
+  "Cecchinato M.": {
+   "elo": 1520.1,
+   "selo": {
+    "Hard": 1358.3,
+    "Clay": 1565.0,
+    "Grass": 1427.2
+   },
+   "rank": 175,
+   "form": 0.233,
+   "last_match": "2026-07-14"
+  },
+  "Cerundolo F.": {
+   "elo": 1766.5,
+   "selo": {
+    "Hard": 1707.3,
+    "Clay": 1753.5,
+    "Grass": 1567.4
+   },
+   "rank": 22,
+   "form": 0.5,
+   "last_match": "2026-10-04"
+  },
+  "Cerundolo J.M.": {
+   "elo": 1595.4,
+   "selo": {
+    "Hard": 1555.2,
+    "Clay": 1585.2,
+    "Grass": 1504.2
+   },
+   "rank": 53,
+   "form": 0.5,
+   "last_match": "2026-09-30"
+  },
+  "Chan D.": {
+   "elo": 1490.5,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 606,
+   "form": 0.5,
+   "last_match": "2026-08-04"
+  },
+  "Choinski J.": {
+   "elo": 1441.3,
+   "selo": {
+    "Hard": 1423.9,
+    "Clay": 1473.0,
+    "Grass": 1486.1
+   },
+   "rank": 76,
+   "form": 0.367,
+   "last_match": "2026-09-02"
+  },
+  "Cilic M.": {
+   "elo": 1680.3,
+   "selo": {
+    "Hard": 1669.7,
+    "Clay": 1642.8,
+    "Grass": 1754.2
+   },
+   "rank": 80,
+   "form": 0.433,
+   "last_match": "2026-08-14"
+  },
+  "Cina F.": {
+   "elo": 1448.9,
+   "selo": {
+    "Hard": 1498.8,
+    "Clay": 1449.8
+   },
+   "rank": 170,
+   "form": 0.3,
+   "last_match": "2026-09-26"
+  },
+  "Cobolli F.": {
+   "elo": 1754.5,
+   "selo": {
+    "Hard": 1656.2,
+    "Clay": 1730.5,
+    "Grass": 1622.2
+   },
+   "rank": 7,
+   "form": 0.567,
+   "last_match": "2026-10-01"
+  },
+  "Collignon R.": {
+   "elo": 1588.6,
+   "selo": {
+    "Hard": 1544.8,
+    "Clay": 1575.0,
+    "Grass": 1500.3
+   },
+   "rank": 38,
+   "form": 0.433,
+   "last_match": "2026-08-31"
+  },
+  "Comesana F.": {
+   "elo": 1543.8,
+   "selo": {
+    "Hard": 1513.7,
+    "Clay": 1541.5,
+    "Grass": 1509.9
+   },
+   "rank": 119,
+   "form": 0.433,
+   "last_match": "2026-09-01"
+  },
+  "Coria F.": {
+   "elo": 1495.3,
+   "selo": {
+    "Hard": 1400.1,
+    "Clay": 1546.8,
+    "Grass": 1456.6
+   },
+   "rank": 322,
+   "form": 0.367,
+   "last_match": "2026-02-10"
+  },
+  "Cui J.": {
+   "elo": 1470.1,
+   "selo": {
+    "Hard": 1482.3
+   },
+   "rank": 456,
+   "form": 0.417,
+   "last_match": "2026-09-24"
+  },
+  "Dahlin M.": {
+   "elo": 1487.3,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 1360,
+   "form": 0.5,
+   "last_match": "2026-07-14"
+  },
+  "Damas M.": {
+   "elo": 1482.5,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 300,
+   "form": 0.5,
+   "last_match": "2026-07-14"
+  },
+  "Damm M.": {
+   "elo": 1522.9,
+   "selo": {
+    "Hard": 1506.1,
+    "Clay": 1483.8,
+    "Grass": 1503.8
+   },
+   "rank": 106,
+   "form": 0.433,
+   "last_match": "2026-09-26"
+  },
+  "Daniel T.": {
+   "elo": 1477.2,
+   "selo": {
+    "Hard": 1492.1,
+    "Clay": 1478.2,
+    "Grass": 1386.5
+   },
+   "rank": 193,
+   "form": 0.367,
+   "last_match": "2026-09-25"
+  },
+  "Darderi L.": {
+   "elo": 1700.4,
+   "selo": {
+    "Hard": 1561.4,
+    "Clay": 1759.7,
+    "Grass": 1476.5
+   },
+   "rank": 19,
+   "form": 0.567,
+   "last_match": "2026-10-02"
+  },
+  "Davidovich Fokina A.": {
+   "elo": 1773.8,
+   "selo": {
+    "Hard": 1732.4,
+    "Clay": 1652.4,
+    "Grass": 1645.3
+   },
+   "rank": 28,
+   "form": 0.7,
+   "last_match": "2026-10-01"
+  },
+  "De Jong J.": {
+   "elo": 1548.1,
+   "selo": {
+    "Hard": 1489.5,
+    "Clay": 1594.5,
+    "Grass": 1479.0
+   },
+   "rank": 100,
+   "form": 0.433,
+   "last_match": "2026-09-03"
+  },
+  "De Minaur A.": {
+   "elo": 1824.3,
+   "selo": {
+    "Hard": 1805.0,
+    "Clay": 1706.5,
+    "Grass": 1714.5
+   },
+   "rank": 10,
+   "form": 0.567,
+   "last_match": "2026-10-04"
+  },
+  "Dedura D.": {
+   "elo": 1458.6,
+   "selo": {
+    "Clay": 1481.1,
+    "Grass": 1500.0
+   },
+   "rank": 262,
+   "form": 0.312,
+   "last_match": "2026-06-09"
+  },
+  "Dellien H.": {
+   "elo": 1432.5,
+   "selo": {
+    "Hard": 1394.4,
+    "Clay": 1472.2,
+    "Grass": 1453.5
+   },
+   "rank": 144,
+   "form": 0.3,
+   "last_match": "2026-05-24"
+  },
+  "Den Ouden G.": {
+   "elo": 1518.4,
+   "selo": {
+    "Hard": 1521.8
+   },
+   "rank": 169,
+   "form": 0.583,
+   "last_match": "2026-02-12"
+  },
+  "Diallo G.": {
+   "elo": 1609.1,
+   "selo": {
+    "Hard": 1550.1,
+    "Clay": 1545.4,
+    "Grass": 1562.3
+   },
+   "rank": 108,
+   "form": 0.367,
+   "last_match": "2026-08-04"
+  },
+  "Diaz Acosta F.": {
+   "elo": 1534.2,
+   "selo": {
+    "Hard": 1500.8,
+    "Clay": 1547.7,
+    "Grass": 1500.0
+   },
+   "rank": 82,
+   "form": 0.367,
+   "last_match": "2026-08-31"
+  },
+  "Dietrich D.": {
+   "elo": 1485.1,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 618,
+   "form": 0.5,
+   "last_match": "2026-07-14"
+  },
+  "Dimitrov G.": {
+   "elo": 1762.7,
+   "selo": {
+    "Hard": 1781.1,
+    "Clay": 1691.1,
+    "Grass": 1702.2
+   },
+   "rank": 137,
+   "form": 0.567,
+   "last_match": "2026-09-01"
+  },
+  "Djere L.": {
+   "elo": 1560.2,
+   "selo": {
+    "Hard": 1529.8,
+    "Clay": 1641.9,
+    "Grass": 1429.0
+   },
+   "rank": 221,
+   "form": 0.233,
+   "last_match": "2026-07-21"
+  },
+  "Djokovic N.": {
+   "elo": 2032.2,
+   "selo": {
+    "Hard": 2043.1,
+    "Clay": 1950.0,
+    "Grass": 2008.8
+   },
+   "rank": 11,
+   "form": 0.633,
+   "last_match": "2026-10-04"
+  },
+  "Dodig M.": {
+   "elo": 1478.9,
+   "selo": {
+    "Clay": 1490.1
+   },
+   "rank": 254,
+   "form": 0.438,
+   "last_match": "2026-07-14"
+  },
+  "Draper J.": {
+   "elo": 1854.3,
+   "selo": {
+    "Hard": 1861.1,
+    "Clay": 1680.8,
+    "Grass": 1667.3
+   },
+   "rank": 143,
+   "form": 0.567,
+   "last_match": "2026-08-13"
+  },
+  "Draxl L.": {
+   "elo": 1437.6,
+   "selo": {
+    "Hard": 1454.8,
+    "Clay": 1500.0
+   },
+   "rank": 209,
+   "form": 0.278,
+   "last_match": "2026-08-04"
+  },
+  "Droguet T.": {
+   "elo": 1584.3,
+   "selo": {
+    "Hard": 1555.8,
+    "Clay": 1566.9,
+    "Grass": 1500.0
+   },
+   "rank": 111,
+   "form": 0.5,
+   "last_match": "2026-08-14"
+  },
+  "Duckworth J.": {
+   "elo": 1574.8,
+   "selo": {
+    "Hard": 1553.9,
+    "Clay": 1409.6,
+    "Grass": 1503.3
+   },
+   "rank": 65,
+   "form": 0.633,
+   "last_match": "2026-09-24"
+  },
+  "Dzumhur D.": {
+   "elo": 1541.6,
+   "selo": {
+    "Hard": 1430.7,
+    "Clay": 1602.0,
+    "Grass": 1512.1
+   },
+   "rank": 104,
+   "form": 0.5,
+   "last_match": "2026-08-31"
+  },
+  "Echargui M.": {
+   "elo": 1473.7,
+   "selo": {
+    "Hard": 1482.8
+   },
+   "rank": 141,
+   "form": 0.357,
+   "last_match": "2026-02-23"
+  },
+  "Engel J.": {
+   "elo": 1491.5,
+   "selo": {
+    "Hard": 1515.2,
+    "Clay": 1475.0,
+    "Grass": 1523.5
+   },
+   "rank": 190,
+   "form": 0.367,
+   "last_match": "2026-05-19"
+  },
+  "Etcheverry T.": {
+   "elo": 1617.5,
+   "selo": {
+    "Hard": 1584.0,
+    "Clay": 1643.9,
+    "Grass": 1423.4
+   },
+   "rank": 30,
+   "form": 0.433,
+   "last_match": "2026-10-01"
+  },
+  "Etcheverry T. M.": {
+   "elo": 1484.3,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 58,
+   "form": 0.5,
+   "last_match": "2025-10-28"
+  },
+  "Faria J.": {
+   "elo": 1618.1,
+   "selo": {
+    "Hard": 1578.7,
+    "Clay": 1569.4,
+    "Grass": 1503.2
+   },
+   "rank": 61,
+   "form": 0.567,
+   "last_match": "2026-10-02"
+  },
+  "Faurel T.": {
+   "elo": 1492.8,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 378,
+   "form": 0.5,
+   "last_match": "2026-05-26"
+  },
+  "Fearnley J.": {
+   "elo": 1534.5,
+   "selo": {
+    "Hard": 1497.2,
+    "Clay": 1548.2,
+    "Grass": 1509.7
+   },
+   "rank": 101,
+   "form": 0.433,
+   "last_match": "2026-09-02"
+  },
+  "Feldbausch K.": {
+   "elo": 1496.0,
+   "selo": {
+    "Clay": 1505.6
+   },
+   "rank": 284,
+   "form": 0.5,
+   "last_match": "2026-07-22"
+  },
+  "Ferreira Silva F.": {
+   "elo": 1469.4,
+   "selo": {
+    "Hard": 1483.6,
+    "Clay": 1500.0
+   },
+   "rank": 235,
+   "form": 0.357,
+   "last_match": "2026-07-20"
+  },
+  "Fery A.": {
+   "elo": 1620.6,
+   "selo": {
+    "Hard": 1527.9,
+    "Grass": 1587.3
+   },
+   "rank": 36,
+   "form": 0.567,
+   "last_match": "2026-10-01"
+  },
+  "Fils A.": {
+   "elo": 1906.2,
+   "selo": {
+    "Hard": 1826.8,
+    "Clay": 1799.3,
+    "Grass": 1539.4
+   },
+   "rank": 9,
+   "form": 0.7,
+   "last_match": "2026-10-04"
+  },
+  "Fonseca J.": {
+   "elo": 1763.5,
+   "selo": {
+    "Hard": 1685.6,
+    "Clay": 1674.5,
+    "Grass": 1522.0
+   },
+   "rank": 26,
+   "form": 0.567,
+   "last_match": "2026-08-16"
+  },
+  "Fritz T.": {
+   "elo": 1847.4,
+   "selo": {
+    "Hard": 1805.4,
+    "Clay": 1665.0,
+    "Grass": 1782.7
+   },
+   "rank": 12,
+   "form": 0.633,
+   "last_match": "2026-10-01"
+  },
+  "Fucsovics M.": {
+   "elo": 1624.1,
+   "selo": {
+    "Hard": 1595.9,
+    "Clay": 1587.6,
+    "Grass": 1597.7
+   },
+   "rank": 122,
+   "form": 0.3,
+   "last_match": "2026-08-30"
+  },
+  "Galarneau A.": {
+   "elo": 1474.2,
+   "selo": {
+    "Hard": 1481.7,
+    "Grass": 1500.0
+   },
+   "rank": 175,
+   "form": 0.318,
+   "last_match": "2026-08-03"
+  },
+  "Garin C.": {
+   "elo": 1588.0,
+   "selo": {
+    "Hard": 1557.7,
+    "Clay": 1583.3,
+    "Grass": 1554.5
+   },
+   "rank": 114,
+   "form": 0.367,
+   "last_match": "2026-05-26"
+  },
+  "Gaston H.": {
+   "elo": 1505.7,
+   "selo": {
+    "Hard": 1494.8,
+    "Clay": 1517.6,
+    "Grass": 1486.4
+   },
+   "rank": 97,
+   "form": 0.5,
+   "last_match": "2026-09-27"
+  },
+  "Gaubas V.": {
+   "elo": 1503.8,
+   "selo": {
+    "Clay": 1520.2,
+    "Grass": 1500.0
+   },
+   "rank": 128,
+   "form": 0.367,
+   "last_match": "2026-07-21"
+  },
+  "Gea A.": {
+   "elo": 1608.8,
+   "selo": {
+    "Hard": 1622.7,
+    "Clay": 1477.4
+   },
+   "rank": 58,
+   "form": 0.767,
+   "last_match": "2026-10-02"
+  },
+  "Gentzsch T.": {
+   "elo": 1485.3,
+   "selo": {
+    "Grass": 1500.0
+   },
+   "rank": 229,
+   "form": 0.5,
+   "last_match": "2026-06-09"
+  },
+  "Ghibaudo A.": {
+   "elo": 1486.5,
+   "selo": {
+    "Grass": 1500.0
+   },
+   "rank": 303,
+   "form": 0.5,
+   "last_match": "2026-06-22"
+  },
+  "Gill F.": {
+   "elo": 1475.3,
+   "selo": {
+    "Grass": 1481.2
+   },
+   "rank": 220,
+   "form": 0.417,
+   "last_match": "2026-06-29"
+  },
+  "Giron M.": {
+   "elo": 1567.6,
+   "selo": {
+    "Hard": 1542.1,
+    "Clay": 1480.9,
+    "Grass": 1575.0
+   },
+   "rank": 78,
+   "form": 0.367,
+   "last_match": "2026-09-02"
+  },
+  "Goffin D.": {
+   "elo": 1594.2,
+   "selo": {
+    "Hard": 1568.3,
+    "Clay": 1638.6,
+    "Grass": 1616.4
+   },
+   "rank": 104,
+   "form": 0.367,
+   "last_match": "2025-10-21"
+  },
+  "Gomez F.A.": {
+   "elo": 1502.6,
+   "selo": {
+    "Hard": 1500.0,
+    "Clay": 1512.0
+   },
+   "rank": 209,
+   "form": 0.45,
+   "last_match": "2026-07-15"
+  },
+  "Gorzny S.": {
+   "elo": 1501.7,
+   "selo": {
+    "Hard": 1503.7
+   },
+   "rank": 731,
+   "form": 0.5,
+   "last_match": "2026-09-02"
+  },
+  "Grenier H.": {
+   "elo": 1478.4,
+   "selo": {
+    "Hard": 1470.2,
+    "Clay": 1480.5,
+    "Grass": 1516.4
+   },
+   "rank": 255,
+   "form": 0.367,
+   "last_match": "2026-08-26"
+  },
+  "Griekspoor T.": {
+   "elo": 1622.2,
+   "selo": {
+    "Hard": 1668.2,
+    "Clay": 1569.2,
+    "Grass": 1594.3
+   },
+   "rank": 55,
+   "form": 0.367,
+   "last_match": "2026-10-01"
+  },
+  "Guerrieri A.": {
+   "elo": 1495.2,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 187,
+   "form": 0.5,
+   "last_match": "2026-09-02"
+  },
+  "Habib H.": {
+   "elo": 1467.2,
+   "selo": {
+    "Hard": 1474.0
+   },
+   "rank": 334,
+   "form": 0.35,
+   "last_match": "2026-02-17"
+  },
+  "Halys Q.": {
+   "elo": 1653.1,
+   "selo": {
+    "Hard": 1550.1,
+    "Clay": 1630.1,
+    "Grass": 1508.2
+   },
+   "rank": 50,
+   "form": 0.567,
+   "last_match": "2026-10-03"
+  },
+  "Hanfmann Y.": {
+   "elo": 1662.8,
+   "selo": {
+    "Hard": 1605.0,
+    "Clay": 1643.4,
+    "Grass": 1500.1
+   },
+   "rank": 54,
+   "form": 0.567,
+   "last_match": "2026-08-31"
+  },
+  "Harris B.": {
+   "elo": 1493.6,
+   "selo": {
+    "Hard": 1443.1,
+    "Clay": 1500.0,
+    "Grass": 1517.0
+   },
+   "rank": 155,
+   "form": 0.367,
+   "last_match": "2026-06-30"
+  },
+  "Harris L.": {
+   "elo": 1602.7,
+   "selo": {
+    "Hard": 1605.0,
+    "Clay": 1476.6,
+    "Grass": 1513.6
+   },
+   "rank": 136,
+   "form": 0.5,
+   "last_match": "2026-09-27"
+  },
+  "Hassan B.": {
+   "elo": 1432.2,
+   "selo": {
+    "Hard": 1460.4,
+    "Clay": 1489.7
+   },
+   "rank": 289,
+   "form": 0.25,
+   "last_match": "2026-02-23"
+  },
+  "Heide G.": {
+   "elo": 1470.3,
+   "selo": {
+    "Clay": 1467.9
+   },
+   "rank": 258,
+   "form": 0.393,
+   "last_match": "2026-02-16"
+  },
+  "Herbert P.": {
+   "elo": 1432.7,
+   "selo": {
+    "Hard": 1481.9,
+    "Clay": 1470.0,
+    "Grass": 1482.8
+   },
+   "rank": 288,
+   "form": 0.233,
+   "last_match": "2026-08-24"
+  },
+  "Hernandez A.": {
+   "elo": 1456.5,
+   "selo": {
+    "Hard": 1502.4,
+    "Clay": 1476.6
+   },
+   "rank": 498,
+   "form": 0.367,
+   "last_match": "2026-07-28"
+  },
+  "Hewitt C.": {
+   "elo": 1521.2,
+   "selo": {
+    "Hard": 1532.4
+   },
+   "rank": 368,
+   "form": 0.562,
+   "last_match": "2026-08-25"
+  },
+  "Hijikata R.": {
+   "elo": 1592.7,
+   "selo": {
+    "Hard": 1588.3,
+    "Clay": 1408.6,
+    "Grass": 1499.4
+   },
+   "rank": 82,
+   "form": 0.5,
+   "last_match": "2026-09-25"
+  },
+  "Hu J.": {
+   "elo": 1485.9,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 2082,
+   "form": 0.5,
+   "last_match": "2026-09-23"
+  },
+  "Huesler M.": {
+   "elo": 1490.1,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 340,
+   "form": 0.5,
+   "last_match": "2026-04-13"
+  },
+  "Humbert U.": {
+   "elo": 1706.0,
+   "selo": {
+    "Hard": 1713.9,
+    "Clay": 1490.3,
+    "Grass": 1621.9
+   },
+   "rank": 32,
+   "form": 0.5,
+   "last_match": "2026-10-03"
+  },
+  "Hurkacz H.": {
+   "elo": 1786.1,
+   "selo": {
+    "Hard": 1722.2,
+    "Clay": 1704.9,
+    "Grass": 1684.2
+   },
+   "rank": 41,
+   "form": 0.633,
+   "last_match": "2026-10-04"
+  },
+  "Hussey G.": {
+   "elo": 1521.3,
+   "selo": {
+    "Grass": 1512.8
+   },
+   "rank": 293,
+   "form": 0.562,
+   "last_match": "2026-06-24"
+  },
+  "Ivanov I.": {
+   "elo": 1488.8,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 935,
+   "form": 0.5,
+   "last_match": "2025-11-04"
+  },
+  "Jacquet K.": {
+   "elo": 1557.6,
+   "selo": {
+    "Hard": 1565.5,
+    "Clay": 1480.6,
+    "Grass": 1517.2
+   },
+   "rank": 86,
+   "form": 0.567,
+   "last_match": "2026-10-04"
+  },
+  "Jarry N.": {
+   "elo": 1570.4,
+   "selo": {
+    "Hard": 1543.7,
+    "Clay": 1562.3,
+    "Grass": 1556.1
+   },
+   "rank": 155,
+   "form": 0.433,
+   "last_match": "2026-02-23"
+  },
+  "Jianu F.C.": {
+   "elo": 1485.7,
+   "selo": {
+    "Clay": 1502.3
+   },
+   "rank": 246,
+   "form": 0.5,
+   "last_match": "2026-03-31"
+  },
+  "Jodar R.": {
+   "elo": 1789.3,
+   "selo": {
+    "Hard": 1666.5,
+    "Clay": 1728.7,
+    "Grass": 1532.0
+   },
+   "rank": 13,
+   "form": 0.567,
+   "last_match": "2026-10-01"
+  },
+  "Kecmanovic M.": {
+   "elo": 1558.9,
+   "selo": {
+    "Hard": 1557.7,
+    "Clay": 1549.1,
+    "Grass": 1523.8
+   },
+   "rank": 60,
+   "form": 0.433,
+   "last_match": "2026-09-24"
+  },
+  "Kennedy J.": {
+   "elo": 1486.8,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 394,
+   "form": 0.5,
+   "last_match": "2026-08-30"
+  },
+  "Khachanov K.": {
+   "elo": 1711.8,
+   "selo": {
+    "Hard": 1695.2,
+    "Clay": 1696.1,
+    "Grass": 1633.0
+   },
+   "rank": 26,
+   "form": 0.567,
+   "last_match": "2026-10-04"
+  },
+  "Kokkinakis T.": {
+   "elo": 1702.0,
+   "selo": {
+    "Hard": 1684.2,
+    "Clay": 1516.1,
+    "Grass": 1534.3
+   },
+   "rank": 440,
+   "form": 0.567,
+   "last_match": "2026-08-14"
+  },
+  "Kolar Z.": {
+   "elo": 1487.1,
+   "selo": {
+    "Clay": 1511.0,
+    "Grass": 1500.0
+   },
+   "rank": 153,
+   "form": 0.389,
+   "last_match": "2026-07-14"
+  },
+  "Kopriva V.": {
+   "elo": 1565.1,
+   "selo": {
+    "Hard": 1495.9,
+    "Clay": 1571.1,
+    "Grass": 1498.9
+   },
+   "rank": 71,
+   "form": 0.367,
+   "last_match": "2026-09-25"
+  },
+  "Korda S.": {
+   "elo": 1771.2,
+   "selo": {
+    "Hard": 1758.6,
+    "Clay": 1618.1,
+    "Grass": 1638.5
+   },
+   "rank": 36,
+   "form": 0.7,
+   "last_match": "2026-03-24"
+  },
+  "Kouame M.": {
+   "elo": 1481.8,
+   "selo": {
+    "Hard": 1475.9,
+    "Clay": 1510.2
+   },
+   "rank": 191,
+   "form": 0.393,
+   "last_match": "2026-09-24"
+  },
+  "Kovacevic A.": {
+   "elo": 1520.3,
+   "selo": {
+    "Hard": 1526.2,
+    "Clay": 1446.5,
+    "Grass": 1425.9
+   },
+   "rank": 80,
+   "form": 0.433,
+   "last_match": "2026-09-24"
+  },
+  "Krumich M.": {
+   "elo": 1481.7,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 278,
+   "form": 0.5,
+   "last_match": "2026-07-14"
+  },
+  "Kubler J.": {
+   "elo": 1520.1,
+   "selo": {
+    "Hard": 1464.0,
+    "Clay": 1539.2,
+    "Grass": 1546.8
+   },
+   "rank": 194,
+   "form": 0.3,
+   "last_match": "2026-01-18"
+  },
+  "Kwon S.": {
+   "elo": 1496.0,
+   "selo": {
+    "Hard": 1500.0,
+    "Grass": 1516.2
+   },
+   "rank": 158,
+   "form": 0.5,
+   "last_match": "2026-07-29"
+  },
+  "Kym J.": {
+   "elo": 1552.5,
+   "selo": {
+    "Hard": 1534.6,
+    "Clay": 1530.6
+   },
+   "rank": 186,
+   "form": 0.577,
+   "last_match": "2026-07-16"
+  },
+  "Kypson P.": {
+   "elo": 1443.7,
+   "selo": {
+    "Hard": 1480.2,
+    "Clay": 1450.7,
+    "Grass": 1517.2
+   },
+   "rank": 113,
+   "form": 0.3,
+   "last_match": "2026-07-02"
+  },
+  "Kyrgios N.": {
+   "elo": 1856.2,
+   "selo": {
+    "Hard": 1852.1,
+    "Clay": 1683.0,
+    "Grass": 1711.7
+   },
+   "rank": 900,
+   "form": 0.567,
+   "last_match": "2026-06-22"
+  },
+  "Lajal M.": {
+   "elo": 1497.2,
+   "selo": {
+    "Hard": 1488.4,
+    "Grass": 1507.0
+   },
+   "rank": 159,
+   "form": 0.409,
+   "last_match": "2026-08-14"
+  },
+  "Lajovic D.": {
+   "elo": 1542.3,
+   "selo": {
+    "Hard": 1557.3,
+    "Clay": 1544.6,
+    "Grass": 1395.3
+   },
+   "rank": 152,
+   "form": 0.3,
+   "last_match": "2026-07-13"
+  },
+  "Landaluce M.": {
+   "elo": 1518.2,
+   "selo": {
+    "Hard": 1541.7,
+    "Clay": 1512.0,
+    "Grass": 1478.3
+   },
+   "rank": 65,
+   "form": 0.3,
+   "last_match": "2026-08-31"
+  },
+  "Lehecka J.": {
+   "elo": 1813.9,
+   "selo": {
+    "Hard": 1770.5,
+    "Clay": 1664.7,
+    "Grass": 1633.2
+   },
+   "rank": 23,
+   "form": 0.633,
+   "last_match": "2026-10-06"
+  },
+  "Llamas Ruiz P.": {
+   "elo": 1553.9,
+   "selo": {
+    "Hard": 1514.9,
+    "Clay": 1553.4,
+    "Grass": 1500.0
+   },
+   "rank": 119,
+   "form": 0.433,
+   "last_match": "2026-06-30"
+  },
+  "Luz O.": {
+   "elo": 1473.9,
+   "selo": {
+    "Clay": 1485.0
+   },
+   "rank": 1072,
+   "form": 0.417,
+   "last_match": "2026-07-21"
+  },
+  "Machac T.": {
+   "elo": 1702.4,
+   "selo": {
+    "Hard": 1707.9,
+    "Clay": 1640.8,
+    "Grass": 1522.0
+   },
+   "rank": 75,
+   "form": 0.433,
+   "last_match": "2026-10-01"
+  },
+  "Maestrelli F.": {
+   "elo": 1468.4,
+   "selo": {
+    "Hard": 1503.5,
+    "Clay": 1486.1
+   },
+   "rank": 112,
+   "form": 0.35,
+   "last_match": "2026-05-07"
+  },
+  "Majchrzak K.": {
+   "elo": 1636.5,
+   "selo": {
+    "Hard": 1590.7,
+    "Clay": 1470.4,
+    "Grass": 1605.0
+   },
+   "rank": 73,
+   "form": 0.433,
+   "last_match": "2026-09-26"
+  },
+  "Mannarino A.": {
+   "elo": 1589.0,
+   "selo": {
+    "Hard": 1594.0,
+    "Clay": 1320.6,
+    "Grass": 1605.3
+   },
+   "rank": 78,
+   "form": 0.433,
+   "last_match": "2026-09-27"
+  },
+  "Marcondes I.": {
+   "elo": 1483.7,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 348,
+   "form": 0.5,
+   "last_match": "2026-02-16"
+  },
+  "Marozsan F.": {
+   "elo": 1628.2,
+   "selo": {
+    "Hard": 1622.6,
+    "Clay": 1586.8,
+    "Grass": 1509.5
+   },
+   "rank": 59,
+   "form": 0.5,
+   "last_match": "2026-09-27"
+  },
+  "Martin A.": {
+   "elo": 1500.4,
+   "selo": {
+    "Hard": 1364.4,
+    "Clay": 1549.7,
+    "Grass": 1419.1
+   },
+   "rank": 404,
+   "form": 0.367,
+   "last_match": "2026-07-28"
+  },
+  "Martinez P.": {
+   "elo": 1479.9,
+   "selo": {
+    "Hard": 1447.2,
+    "Clay": 1523.9,
+    "Grass": 1443.3
+   },
+   "rank": 159,
+   "form": 0.367,
+   "last_match": "2026-07-23"
+  },
+  "Mayo A.": {
+   "elo": 1483.5,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 689,
+   "form": 0.5,
+   "last_match": "2026-07-29"
+  },
+  "McCabe J.": {
+   "elo": 1486.9,
+   "selo": {
+    "Hard": 1500.0,
+    "Grass": 1496.7
+   },
+   "rank": 233,
+   "form": 0.438,
+   "last_match": "2026-06-11"
+  },
+  "McDonald M.": {
+   "elo": 1500.1,
+   "selo": {
+    "Hard": 1470.5,
+    "Clay": 1517.7,
+    "Grass": 1498.8
+   },
+   "rank": 145,
+   "form": 0.3,
+   "last_match": "2026-07-28"
+  },
+  "McDonald N.": {
+   "elo": 1482.6,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 505,
+   "form": 0.5,
+   "last_match": "2026-07-14"
+  },
+  "Medjedovic H.": {
+   "elo": 1598.4,
+   "selo": {
+    "Hard": 1541.3,
+    "Clay": 1589.0,
+    "Grass": 1515.6
+   },
+   "rank": 79,
+   "form": 0.433,
+   "last_match": "2026-08-30"
+  },
+  "Medvedev D.": {
+   "elo": 1848.2,
+   "selo": {
+    "Hard": 1861.2,
+    "Clay": 1736.9,
+    "Grass": 1714.1
+   },
+   "rank": 6,
+   "form": 0.767,
+   "last_match": "2026-10-04"
+  },
+  "Mejia N.": {
+   "elo": 1458.8,
+   "selo": {
+    "Hard": 1468.2,
+    "Grass": 1516.3
+   },
+   "rank": 122,
+   "form": 0.375,
+   "last_match": "2026-08-14"
+  },
+  "Mensik J.": {
+   "elo": 1783.4,
+   "selo": {
+    "Hard": 1786.7,
+    "Clay": 1693.3,
+    "Grass": 1518.7
+   },
+   "rank": 14,
+   "form": 0.633,
+   "last_match": "2026-10-03"
+  },
+  "Merida Aguilar D.": {
+   "elo": 1692.9,
+   "selo": {
+    "Hard": 1638.3,
+    "Clay": 1614.9,
+    "Grass": 1500.0
+   },
+   "rank": 39,
+   "form": 0.7,
+   "last_match": "2026-09-04"
+  },
+  "Michelsen A.": {
+   "elo": 1727.7,
+   "selo": {
+    "Hard": 1727.5,
+    "Clay": 1508.8,
+    "Grass": 1567.6
+   },
+   "rank": 34,
+   "form": 0.633,
+   "last_match": "2026-10-01"
+  },
+  "Midon L.": {
+   "elo": 1492.9,
+   "selo": {
+    "Clay": 1506.1
+   },
+   "rank": 213,
+   "form": 0.5,
+   "last_match": "2026-07-16"
+  },
+  "Miguel L.": {
+   "elo": 1484.9,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 1593,
+   "form": 0.5,
+   "last_match": "2026-02-18"
+  },
+  "Misolic F.": {
+   "elo": 1547.0,
+   "selo": {
+    "Hard": 1465.4,
+    "Clay": 1611.5,
+    "Grass": 1500.0
+   },
+   "rank": 537,
+   "form": 0.367,
+   "last_match": "2026-09-01"
+  },
+  "Mmoh M.": {
+   "elo": 1663.5,
+   "selo": {
+    "Hard": 1631.1,
+    "Clay": 1498.9,
+    "Grass": 1498.9
+   },
+   "rank": 285,
+   "form": 0.567,
+   "last_match": "2026-01-08"
+  },
+  "Mochizuki S.": {
+   "elo": 1500.0,
+   "selo": {
+    "Hard": 1434.1,
+    "Clay": 1500.0,
+    "Grass": 1517.2
+   },
+   "rank": 125,
+   "form": 0.433,
+   "last_match": "2026-09-24"
+  },
+  "Molcan A.": {
+   "elo": 1669.3,
+   "selo": {
+    "Hard": 1563.4,
+    "Clay": 1691.5,
+    "Grass": 1489.1
+   },
+   "rank": 96,
+   "form": 0.567,
+   "last_match": "2026-10-02"
+  },
+  "Moller E.": {
+   "elo": 1483.0,
+   "selo": {
+    "Hard": 1500.0,
+    "Clay": 1490.2,
+    "Grass": 1500.0
+   },
+   "rank": 169,
+   "form": 0.367,
+   "last_match": "2026-04-26"
+  },
+  "Monfils G.": {
+   "elo": 1677.8,
+   "selo": {
+    "Hard": 1720.0,
+    "Clay": 1573.0,
+    "Grass": 1607.2
+   },
+   "rank": 311,
+   "form": 0.433,
+   "last_match": "2026-09-04"
+  },
+  "Monteiro T.": {
+   "elo": 1520.1,
+   "selo": {
+    "Hard": 1448.9,
+    "Clay": 1549.0,
+    "Grass": 1458.5
+   },
+   "rank": 208,
+   "form": 0.3,
+   "last_match": "2026-02-17"
+  },
+  "Moutet C.": {
+   "elo": 1598.4,
+   "selo": {
+    "Hard": 1624.2,
+    "Clay": 1534.5,
+    "Grass": 1527.0
+   },
+   "rank": 59,
+   "form": 0.3,
+   "last_match": "2026-08-05"
+  },
+  "Mpetshi G.": {
+   "elo": 1536.0,
+   "selo": {
+    "Hard": 1529.2,
+    "Clay": 1501.6,
+    "Grass": 1505.4
+   },
+   "rank": 105,
+   "form": 0.3,
+   "last_match": "2026-08-31"
+  },
+  "Mpetshi Perricard G.": {
+   "elo": 1496.6,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 56,
+   "form": 0.5,
+   "last_match": "2025-10-27"
+  },
+  "Muller A.": {
+   "elo": 1576.6,
+   "selo": {
+    "Hard": 1572.6,
+    "Clay": 1555.4,
+    "Grass": 1484.9
+   },
+   "rank": 135,
+   "form": 0.433,
+   "last_match": "2026-09-27"
+  },
+  "Munar J.": {
+   "elo": 1682.7,
+   "selo": {
+    "Hard": 1682.7,
+    "Clay": 1552.7,
+    "Grass": 1463.4
+   },
+   "rank": 64,
+   "form": 0.633,
+   "last_match": "2026-10-05"
+  },
+  "Musetti L.": {
+   "elo": 1811.5,
+   "selo": {
+    "Hard": 1738.8,
+    "Clay": 1830.4,
+    "Grass": 1646.9
+   },
+   "rank": 14,
+   "form": 0.567,
+   "last_match": "2026-09-03"
+  },
+  "Nagal S.": {
+   "elo": 1406.5,
+   "selo": {
+    "Hard": 1375.1,
+    "Clay": 1489.5,
+    "Grass": 1500.0
+   },
+   "rank": 292,
+   "form": 0.233,
+   "last_match": "2026-04-13"
+  },
+  "Nakashima B.": {
+   "elo": 1764.1,
+   "selo": {
+    "Hard": 1741.1,
+    "Clay": 1548.9,
+    "Grass": 1608.6
+   },
+   "rank": 17,
+   "form": 0.633,
+   "last_match": "2026-10-01"
+  },
+  "Nardi L.": {
+   "elo": 1500.3,
+   "selo": {
+    "Hard": 1514.5,
+    "Clay": 1450.1,
+    "Grass": 1474.2
+   },
+   "rank": 151,
+   "form": 0.367,
+   "last_match": "2026-05-07"
+  },
+  "Nava E.": {
+   "elo": 1516.2,
+   "selo": {
+    "Hard": 1485.8,
+    "Clay": 1513.1,
+    "Grass": 1484.5
+   },
+   "rank": 86,
+   "form": 0.367,
+   "last_match": "2026-06-29"
+  },
+  "Navone M.": {
+   "elo": 1659.2,
+   "selo": {
+    "Hard": 1493.7,
+    "Clay": 1681.3,
+    "Grass": 1449.1
+   },
+   "rank": 45,
+   "form": 0.5,
+   "last_match": "2026-10-01"
+  },
+  "Neumayer L.": {
+   "elo": 1451.9,
+   "selo": {
+    "Clay": 1456.9
+   },
+   "rank": 172,
+   "form": 0.35,
+   "last_match": "2026-07-20"
+  },
+  "Nishikori K.": {
+   "elo": 1737.6,
+   "selo": {
+    "Hard": 1715.5,
+    "Clay": 1805.4,
+    "Grass": 1705.9
+   },
+   "rank": 436,
+   "form": 0.5,
+   "last_match": "2026-10-01"
+  },
+  "Norrie C.": {
+   "elo": 1699.0,
+   "selo": {
+    "Hard": 1676.5,
+    "Clay": 1697.1,
+    "Grass": 1598.3
+   },
+   "rank": 39,
+   "form": 0.567,
+   "last_match": "2026-10-01"
+  },
+  "O Connell C.": {
+   "elo": 1550.9,
+   "selo": {
+    "Hard": 1549.9,
+    "Clay": 1468.7,
+    "Grass": 1483.1
+   },
+   "rank": 129,
+   "form": 0.367,
+   "last_match": "2026-08-20"
+  },
+  "Ofner S.": {
+   "elo": 1536.7,
+   "selo": {
+    "Hard": 1500.2,
+    "Clay": 1547.8,
+    "Grass": 1525.7
+   },
+   "rank": 124,
+   "form": 0.367,
+   "last_match": "2026-07-21"
+  },
+  "Omarkhanov A.": {
+   "elo": 1491.4,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 1137,
+   "form": 0.5,
+   "last_match": "2025-10-13"
+  },
+  "Onclin G.": {
+   "elo": 1502.6,
+   "selo": {
+    "Hard": 1500.0,
+    "Grass": 1514.7
+   },
+   "rank": 186,
+   "form": 0.5,
+   "last_match": "2026-06-10"
+  },
+  "Opelka R.": {
+   "elo": 1641.5,
+   "selo": {
+    "Hard": 1670.2,
+    "Clay": 1531.7,
+    "Grass": 1537.0
+   },
+   "rank": 76,
+   "form": 0.5,
+   "last_match": "2026-05-24"
+  },
+  "Pacheco Mendez R.": {
+   "elo": 1464.1,
+   "selo": {
+    "Hard": 1451.1
+   },
+   "rank": 320,
+   "form": 0.321,
+   "last_match": "2026-07-30"
+  },
+  "Passaro F.": {
+   "elo": 1458.1,
+   "selo": {
+    "Hard": 1429.5,
+    "Clay": 1508.2
+   },
+   "rank": 207,
+   "form": 0.367,
+   "last_match": "2026-09-02"
+  },
+  "Paul T.": {
+   "elo": 1822.0,
+   "selo": {
+    "Hard": 1776.3,
+    "Clay": 1743.1,
+    "Grass": 1681.4
+   },
+   "rank": 16,
+   "form": 0.633,
+   "last_match": "2026-09-30"
+  },
+  "Pavlovic L.": {
+   "elo": 1481.8,
+   "selo": {
+    "Hard": 1500.0,
+    "Clay": 1500.0
+   },
+   "rank": 241,
+   "form": 0.417,
+   "last_match": "2026-05-24"
+  },
+  "Pellegrino A.": {
+   "elo": 1544.2,
+   "selo": {
+    "Clay": 1538.5
+   },
+   "rank": 138,
+   "form": 0.5,
+   "last_match": "2026-07-16"
+  },
+  "Pereira T.": {
+   "elo": 1482.8,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 371,
+   "form": 0.5,
+   "last_match": "2026-07-21"
+  },
+  "Pinnington Jones J.": {
+   "elo": 1519.0,
+   "selo": {
+    "Hard": 1542.6,
+    "Clay": 1500.0,
+    "Grass": 1472.5
+   },
+   "rank": 138,
+   "form": 0.433,
+   "last_match": "2026-06-30"
+  },
+  "Piros Z.": {
+   "elo": 1451.8,
+   "selo": {
+    "Hard": 1468.3,
+    "Clay": 1501.2
+   },
+   "rank": 118,
+   "form": 0.35,
+   "last_match": "2026-09-01"
+  },
+  "Polmans M.": {
+   "elo": 1437.7,
+   "selo": {
+    "Hard": 1426.8,
+    "Clay": 1510.0,
+    "Grass": 1481.6
+   },
+   "rank": 366,
+   "form": 0.367,
+   "last_match": "2026-06-23"
+  },
+  "Popyrin A.": {
+   "elo": 1623.4,
+   "selo": {
+    "Hard": 1594.8,
+    "Clay": 1628.4,
+    "Grass": 1415.8
+   },
+   "rank": 130,
+   "form": 0.433,
+   "last_match": "2026-09-03"
+  },
+  "Prado Angelo J.C.": {
+   "elo": 1486.7,
+   "selo": {
+    "Clay": 1498.2
+   },
+   "rank": 173,
+   "form": 0.5,
+   "last_match": "2026-07-15"
+  },
+  "Prizmic D.": {
+   "elo": 1630.3,
+   "selo": {
+    "Hard": 1506.2,
+    "Clay": 1594.3,
+    "Grass": 1516.6
+   },
+   "rank": 102,
+   "form": 0.567,
+   "last_match": "2026-09-03"
+  },
+  "Quinn E.": {
+   "elo": 1585.3,
+   "selo": {
+    "Hard": 1523.7,
+    "Clay": 1468.8,
+    "Grass": 1570.8
+   },
+   "rank": 47,
+   "form": 0.567,
+   "last_match": "2026-07-01"
+  },
+  "Reis Da Silva J.": {
+   "elo": 1490.1,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 207,
+   "form": 0.5,
+   "last_match": "2026-02-17"
+  },
+  "Rinderknech A.": {
+   "elo": 1661.3,
+   "selo": {
+    "Hard": 1633.3,
+    "Clay": 1599.8,
+    "Grass": 1533.2
+   },
+   "rank": 29,
+   "form": 0.5,
+   "last_match": "2026-09-04"
+  },
+  "Rocha H.": {
+   "elo": 1470.9,
+   "selo": {
+    "Clay": 1479.1
+   },
+   "rank": 123,
+   "form": 0.393,
+   "last_match": "2026-07-20"
+  },
+  "Rodionov J.": {
+   "elo": 1511.7,
+   "selo": {
+    "Hard": 1540.4,
+    "Clay": 1460.8,
+    "Grass": 1486.5
+   },
+   "rank": 143,
+   "form": 0.367,
+   "last_match": "2026-09-03"
+  },
+  "Rottgering M.": {
+   "elo": 1495.3,
+   "selo": {
+    "Hard": 1511.3,
+    "Grass": 1500.0
+   },
+   "rank": 389,
+   "form": 0.45,
+   "last_match": "2026-08-26"
+  },
+  "Royer V.": {
+   "elo": 1485.2,
+   "selo": {
+    "Hard": 1493.6,
+    "Clay": 1457.6,
+    "Grass": 1489.5
+   },
+   "rank": 104,
+   "form": 0.367,
+   "last_match": "2026-09-26"
+  },
+  "Rublev A.": {
+   "elo": 1748.9,
+   "selo": {
+    "Hard": 1712.4,
+    "Clay": 1782.6,
+    "Grass": 1628.2
+   },
+   "rank": 24,
+   "form": 0.633,
+   "last_match": "2026-10-04"
+  },
+  "Rune H.": {
+   "elo": 1812.6,
+   "selo": {
+    "Hard": 1796.8,
+    "Clay": 1806.7,
+    "Grass": 1592.6
+   },
+   "rank": 188,
+   "form": 0.633,
+   "last_match": "2026-10-01"
+  },
+  "Ruud C.": {
+   "elo": 1805.0,
+   "selo": {
+    "Hard": 1707.9,
+    "Clay": 1865.3,
+    "Grass": 1467.2
+   },
+   "rank": 21,
+   "form": 0.5,
+   "last_match": "2026-10-01"
+  },
+  "Ruusuvuori E.": {
+   "elo": 1655.1,
+   "selo": {
+    "Hard": 1658.9,
+    "Clay": 1497.6,
+    "Grass": 1537.0
+   },
+   "rank": 608,
+   "form": 0.5,
+   "last_match": "2025-10-14"
+  },
+  "Sachko V.": {
+   "elo": 1491.4,
+   "selo": {
+    "Hard": 1532.4,
+    "Clay": 1463.0
+   },
+   "rank": 208,
+   "form": 0.367,
+   "last_match": "2026-04-13"
+  },
+  "Safiullin R.": {
+   "elo": 1625.6,
+   "selo": {
+    "Hard": 1616.7,
+    "Clay": 1463.4,
+    "Grass": 1535.4
+   },
+   "rank": 84,
+   "form": 0.567,
+   "last_match": "2026-10-03"
+  },
+  "Sakamoto R.": {
+   "elo": 1475.0,
+   "selo": {
+    "Hard": 1480.5
+   },
+   "rank": 137,
+   "form": 0.346,
+   "last_match": "2026-09-30"
+  },
+  "Sakellaridis S.": {
+   "elo": 1495.2,
+   "selo": {
+    "Hard": 1500.0,
+    "Clay": 1516.7
+   },
+   "rank": 225,
+   "form": 0.5,
+   "last_match": "2026-04-03"
+  },
+  "Samuel T.": {
+   "elo": 1523.3,
+   "selo": {
+    "Hard": 1527.2,
+    "Clay": 1500.0,
+    "Grass": 1499.5
+   },
+   "rank": 110,
+   "form": 0.458,
+   "last_match": "2026-09-02"
+  },
+  "Schoenhaus M.": {
+   "elo": 1485.2,
+   "selo": {
+    "Clay": 1500.0,
+    "Grass": 1500.0
+   },
+   "rank": 336,
+   "form": 0.417,
+   "last_match": "2026-06-15"
+  },
+  "Schoolkate T.": {
+   "elo": 1477.7,
+   "selo": {
+    "Hard": 1470.3,
+    "Clay": 1500.0,
+    "Grass": 1500.0
+   },
+   "rank": 180,
+   "form": 0.3,
+   "last_match": "2026-09-03"
+  },
+  "Schwaerzler J.J.": {
+   "elo": 1463.6,
+   "selo": {
+    "Clay": 1472.9
+   },
+   "rank": 185,
+   "form": 0.357,
+   "last_match": "2026-07-20"
+  },
+  "Sesko Z.": {
+   "elo": 1484.7,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 957,
+   "form": 0.5,
+   "last_match": "2026-07-14"
+  },
+  "Shang J.": {
+   "elo": 1615.0,
+   "selo": {
+    "Hard": 1575.6,
+    "Clay": 1465.7,
+    "Grass": 1537.6
+   },
+   "rank": 250,
+   "form": 0.367,
+   "last_match": "2026-10-03"
+  },
+  "Shapovalov D.": {
+   "elo": 1701.3,
+   "selo": {
+    "Hard": 1719.9,
+    "Clay": 1567.2,
+    "Grass": 1530.4
+   },
+   "rank": 46,
+   "form": 0.633,
+   "last_match": "2026-10-03"
+  },
+  "Shelbayh A.": {
+   "elo": 1444.5,
+   "selo": {
+    "Hard": 1467.2,
+    "Clay": 1485.6,
+    "Grass": 1488.2
+   },
+   "rank": 256,
+   "form": 0.3,
+   "last_match": "2026-08-24"
+  },
+  "Shelton B.": {
+   "elo": 1880.3,
+   "selo": {
+    "Hard": 1888.0,
+    "Clay": 1632.6,
+    "Grass": 1631.2
+   },
+   "rank": 9,
+   "form": 0.767,
+   "last_match": "2026-09-13"
+  },
+  "Shevchenko A.": {
+   "elo": 1575.7,
+   "selo": {
+    "Hard": 1567.1,
+    "Clay": 1549.0,
+    "Grass": 1458.5
+   },
+   "rank": 109,
+   "form": 0.367,
+   "last_match": "2026-09-24"
+  },
+  "Shimabukuro S.": {
+   "elo": 1434.6,
+   "selo": {
+    "Hard": 1405.3,
+    "Grass": 1501.7
+   },
+   "rank": 108,
+   "form": 0.233,
+   "last_match": "2026-10-01"
+  },
+  "Sinner J.": {
+   "elo": 2242.3,
+   "selo": {
+    "Hard": 2188.8,
+    "Clay": 1999.4,
+    "Grass": 1827.3
+   },
+   "rank": 1,
+   "form": 0.767,
+   "last_match": "2026-07-12"
+  },
+  "Skatov T.": {
+   "elo": 1465.6,
+   "selo": {
+    "Hard": 1461.8,
+    "Clay": 1498.1
+   },
+   "rank": 163,
+   "form": 0.367,
+   "last_match": "2026-07-23"
+  },
+  "Smith C.": {
+   "elo": 1474.4,
+   "selo": {
+    "Hard": 1467.8,
+    "Clay": 1517.9
+   },
+   "rank": 164,
+   "form": 0.393,
+   "last_match": "2026-03-31"
+  },
+  "Sonego L.": {
+   "elo": 1610.4,
+   "selo": {
+    "Hard": 1617.0,
+    "Clay": 1517.2,
+    "Grass": 1580.3
+   },
+   "rank": 86,
+   "form": 0.5,
+   "last_match": "2026-09-25"
+  },
+  "Soto M.": {
+   "elo": 1485.1,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 316,
+   "form": 0.5,
+   "last_match": "2026-02-24"
+  },
+  "Spizzirri E.": {
+   "elo": 1601.6,
+   "selo": {
+    "Hard": 1607.0,
+    "Clay": 1500.0,
+    "Grass": 1516.5
+   },
+   "rank": 91,
+   "form": 0.567,
+   "last_match": "2026-05-25"
+  },
+  "Stewart H.": {
+   "elo": 1482.8,
+   "selo": {
+    "Grass": 1500.0
+   },
+   "rank": 305,
+   "form": 0.5,
+   "last_match": "2026-06-23"
+  },
+  "Stricker D.": {
+   "elo": 1604.5,
+   "selo": {
+    "Hard": 1605.0,
+    "Clay": 1517.3,
+    "Grass": 1523.9
+   },
+   "rank": 360,
+   "form": 0.5,
+   "last_match": "2026-07-17"
+  },
+  "Struff J.L.": {
+   "elo": 1649.9,
+   "selo": {
+    "Hard": 1543.2,
+    "Clay": 1628.3,
+    "Grass": 1619.1
+   },
+   "rank": 59,
+   "form": 0.5,
+   "last_match": "2026-10-03"
+  },
+  "Sun F.": {
+   "elo": 1456.4,
+   "selo": {
+    "Hard": 1464.0
+   },
+   "rank": 314,
+   "form": 0.357,
+   "last_match": "2026-09-24"
+  },
+  "Suresh D.": {
+   "elo": 1497.9,
+   "selo": {
+    "Hard": 1500.8
+   },
+   "rank": 394,
+   "form": 0.5,
+   "last_match": "2026-08-25"
+  },
+  "Svajda T.": {
+   "elo": 1462.3,
+   "selo": {
+    "Hard": 1463.2
+   },
+   "rank": 436,
+   "form": 0.357,
+   "last_match": "2026-07-28"
+  },
+  "Svajda Z.": {
+   "elo": 1537.5,
+   "selo": {
+    "Hard": 1463.6,
+    "Clay": 1562.6,
+    "Grass": 1514.6
+   },
+   "rank": 80,
+   "form": 0.433,
+   "last_match": "2026-09-03"
+  },
+  "Svrcina D.": {
+   "elo": 1518.3,
+   "selo": {
+    "Hard": 1534.1,
+    "Clay": 1467.7,
+    "Grass": 1500.0
+   },
+   "rank": 128,
+   "form": 0.367,
+   "last_match": "2026-09-24"
+  },
+  "Sweeny D.": {
+   "elo": 1500.3,
+   "selo": {
+    "Hard": 1500.3,
+    "Grass": 1500.0
+   },
+   "rank": 110,
+   "form": 0.367,
+   "last_match": "2026-09-24"
+  },
+  "Taberner C.": {
+   "elo": 1523.9,
+   "selo": {
+    "Hard": 1492.4,
+    "Clay": 1530.3,
+    "Grass": 1500.0
+   },
+   "rank": 406,
+   "form": 0.5,
+   "last_match": "2026-09-02"
+  },
+  "Tabilo A.": {
+   "elo": 1666.9,
+   "selo": {
+    "Hard": 1641.2,
+    "Clay": 1618.1,
+    "Grass": 1527.3
+   },
+   "rank": 31,
+   "form": 0.5,
+   "last_match": "2026-10-03"
+  },
+  "Tabur C.": {
+   "elo": 1497.8,
+   "selo": {
+    "Hard": 1530.5,
+    "Clay": 1488.4
+   },
+   "rank": 178,
+   "form": 0.458,
+   "last_match": "2026-07-15"
+  },
+  "Tarvet O.": {
+   "elo": 1506.0,
+   "selo": {
+    "Grass": 1512.6
+   },
+   "rank": 348,
+   "form": 0.5,
+   "last_match": "2026-06-29"
+  },
+  "Thompson J.": {
+   "elo": 1691.4,
+   "selo": {
+    "Hard": 1683.4,
+    "Clay": 1457.7,
+    "Grass": 1589.7
+   },
+   "rank": 111,
+   "form": 0.5,
+   "last_match": "2026-01-21"
+  },
+  "Tiafoe F.": {
+   "elo": 1838.1,
+   "selo": {
+    "Hard": 1802.1,
+    "Clay": 1642.0,
+    "Grass": 1670.1
+   },
+   "rank": 8,
+   "form": 0.7,
+   "last_match": "2026-10-02"
+  },
+  "Tien L.": {
+   "elo": 1779.6,
+   "selo": {
+    "Hard": 1771.3,
+    "Clay": 1605.2,
+    "Grass": 1522.9
+   },
+   "rank": 15,
+   "form": 0.633,
+   "last_match": "2026-10-01"
+  },
+  "Tirante T. A.": {
+   "elo": 1498.2,
+   "selo": {
+    "Grass": 1517.2
+   },
+   "rank": 54,
+   "form": 0.583,
+   "last_match": "2026-06-24"
+  },
+  "Tirante T.A.": {
+   "elo": 1705.6,
+   "selo": {
+    "Hard": 1618.0,
+    "Clay": 1640.6,
+    "Grass": 1500.0
+   },
+   "rank": 52,
+   "form": 0.633,
+   "last_match": "2026-09-30"
+  },
+  "Tomic B.": {
+   "elo": 1589.8,
+   "selo": {
+    "Hard": 1614.1,
+    "Clay": 1467.9,
+    "Grass": 1599.2
+   },
+   "rank": 171,
+   "form": 0.433,
+   "last_match": "2026-07-31"
+  },
+  "Topo M.": {
+   "elo": 1410.6,
+   "selo": {
+    "Hard": 1500.0,
+    "Clay": 1420.1
+   },
+   "rank": 374,
+   "form": 0.208,
+   "last_match": "2026-07-14"
+  },
+  "Torres T.": {
+   "elo": 1522.1,
+   "selo": {
+    "Clay": 1541.3
+   },
+   "rank": 427,
+   "form": 0.643,
+   "last_match": "2026-07-24"
+  },
+  "Travaglia S.": {
+   "elo": 1498.9,
+   "selo": {
+    "Hard": 1465.3,
+    "Clay": 1519.7,
+    "Grass": 1471.2
+   },
+   "rank": 150,
+   "form": 0.5,
+   "last_match": "2026-07-17"
+  },
+  "Trungelliti M.": {
+   "elo": 1519.6,
+   "selo": {
+    "Hard": 1493.1,
+    "Clay": 1529.8,
+    "Grass": 1463.9
+   },
+   "rank": 83,
+   "form": 0.433,
+   "last_match": "2026-09-03"
+  },
+  "Tseng C.H.": {
+   "elo": 1403.0,
+   "selo": {
+    "Hard": 1436.5,
+    "Clay": 1483.4,
+    "Grass": 1465.0
+   },
+   "rank": 144,
+   "form": 0.233,
+   "last_match": "2026-03-05"
+  },
+  "Tsitsipas S.": {
+   "elo": 1734.7,
+   "selo": {
+    "Hard": 1709.7,
+    "Clay": 1798.2,
+    "Grass": 1573.4
+   },
+   "rank": 44,
+   "form": 0.567,
+   "last_match": "2026-10-02"
+  },
+  "Turcanu R.D.": {
+   "elo": 1488.5,
+   "selo": {
+    "Clay": 1500.0
+   },
+   "rank": 659,
+   "form": 0.5,
+   "last_match": "2026-03-31"
+  },
+  "Ugo Carabelli C.": {
+   "elo": 1530.9,
+   "selo": {
+    "Hard": 1451.2,
+    "Clay": 1594.4,
+    "Grass": 1468.3
+   },
+   "rank": 75,
+   "form": 0.367,
+   "last_match": "2026-09-24"
+  },
+  "Vacherot V.": {
+   "elo": 1712.7,
+   "selo": {
+    "Hard": 1678.0,
+    "Clay": 1558.2
+   },
+   "rank": 18,
+   "form": 0.5,
+   "last_match": "2026-10-05"
+  },
+  "Vallejo D.": {
+   "elo": 1564.1,
+   "selo": {
+    "Hard": 1550.4,
+    "Clay": 1550.2,
+    "Grass": 1482.0
+   },
+   "rank": 56,
+   "form": 0.5,
+   "last_match": "2026-10-04"
+  },
+  "Van Assche L.": {
+   "elo": 1571.0,
+   "selo": {
+    "Hard": 1466.0,
+    "Clay": 1604.2,
+    "Grass": 1481.1
+   },
+   "rank": 43,
+   "form": 0.567,
+   "last_match": "2026-09-30"
+  },
+  "Van De Zandschulp B.": {
+   "elo": 1672.1,
+   "selo": {
+    "Hard": 1668.9,
+    "Clay": 1588.9,
+    "Grass": 1521.0
+   },
+   "rank": 40,
+   "form": 0.567,
+   "last_match": "2026-10-01"
+  },
+  "Vandecasteele Q.": {
+   "elo": 1484.3,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 456,
+   "form": 0.5,
+   "last_match": "2026-08-24"
+  },
+  "Vavassori A.": {
+   "elo": 1537.1,
+   "selo": {
+    "Hard": 1518.5,
+    "Clay": 1556.7,
+    "Grass": 1482.8
+   },
+   "rank": 282,
+   "form": 0.433,
+   "last_match": "2026-02-03"
+  },
+  "Virtanen O.": {
+   "elo": 1508.3,
+   "selo": {
+    "Hard": 1473.4,
+    "Clay": 1475.2,
+    "Grass": 1526.8
+   },
+   "rank": 109,
+   "form": 0.367,
+   "last_match": "2026-08-31"
+  },
+  "Vukic A.": {
+   "elo": 1496.3,
+   "selo": {
+    "Hard": 1508.7,
+    "Clay": 1437.6,
+    "Grass": 1492.5
+   },
+   "rank": 91,
+   "form": 0.3,
+   "last_match": "2026-09-23"
+  },
+  "Walton A.": {
+   "elo": 1507.5,
+   "selo": {
+    "Hard": 1480.0,
+    "Clay": 1513.3,
+    "Grass": 1487.2
+   },
+   "rank": 99,
+   "form": 0.367,
+   "last_match": "2026-09-23"
+  },
+  "Watt J.": {
+   "elo": 1493.1,
+   "selo": {
+    "Hard": 1500.0
+   },
+   "rank": 643,
+   "form": 0.5,
+   "last_match": "2026-01-12"
+  },
+  "Wawrinka S.": {
+   "elo": 1554.5,
+   "selo": {
+    "Hard": 1638.0,
+    "Clay": 1555.4,
+    "Grass": 1572.3
+   },
+   "rank": 127,
+   "form": 0.3,
+   "last_match": "2026-08-31"
+  },
+  "Wendelken H.": {
+   "elo": 1463.7,
+   "selo": {
+    "Hard": 1500.0,
+    "Grass": 1483.0
+   },
+   "rank": 196,
+   "form": 0.357,
+   "last_match": "2026-08-31"
+  },
+  "Winter E.": {
+   "elo": 1506.8,
+   "selo": {
+    "Hard": 1516.9
+   },
+   "rank": 391,
+   "form": 0.583,
+   "last_match": "2026-07-30"
+  },
+  "Wolf J.J.": {
+   "elo": 1526.6,
+   "selo": {
+    "Hard": 1513.6,
+    "Clay": 1503.9,
+    "Grass": 1518.9
+   },
+   "rank": 253,
+   "form": 0.3,
+   "last_match": "2026-08-31"
+  },
+  "Wong C.": {
+   "elo": 1569.6,
+   "selo": {
+    "Hard": 1573.4,
+    "Clay": 1463.9,
+    "Grass": 1500.0
+   },
+   "rank": 108,
+   "form": 0.5,
+   "last_match": "2026-09-27"
+  },
+  "Wu Y.": {
+   "elo": 1626.1,
+   "selo": {
+    "Hard": 1644.2,
+    "Clay": 1501.2,
+    "Grass": 1455.4
+   },
+   "rank": 113,
+   "form": 0.367,
+   "last_match": "2026-09-04"
+  },
+  "Ymer E.": {
+   "elo": 1469.7,
+   "selo": {
+    "Hard": 1497.7,
+    "Clay": 1417.2,
+    "Grass": 1464.4
+   },
+   "rank": 184,
+   "form": 0.367,
+   "last_match": "2026-06-08"
+  },
+  "Ymer M.": {
+   "elo": 1602.9,
+   "selo": {
+    "Hard": 1592.5,
+    "Clay": 1526.2,
+    "Grass": 1526.1
+   },
+   "rank": 617,
+   "form": 0.433,
+   "last_match": "2025-10-14"
+  },
+  "Zeppieri G.": {
+   "elo": 1438.0,
+   "selo": {
+    "Hard": 1453.8,
+    "Clay": 1473.7,
+    "Grass": 1500.0
+   },
+   "rank": 160,
+   "form": 0.3,
+   "last_match": "2025-10-14"
+  },
+  "Zhang Zh.": {
+   "elo": 1519.4,
+   "selo": {
+    "Hard": 1470.3,
+    "Clay": 1566.4,
+    "Grass": 1541.3
+   },
+   "rank": 165,
+   "form": 0.367,
+   "last_match": "2026-09-30"
+  },
+  "Zheng M.": {
+   "elo": 1554.6,
+   "selo": {
+    "Hard": 1550.5,
+    "Clay": 1500.0,
+    "Grass": 1538.8
+   },
+   "rank": 92,
+   "form": 0.5,
+   "last_match": "2026-09-24"
+  },
+  "Zhou Y.": {
+   "elo": 1451.8,
+   "selo": {
+    "Hard": 1446.5
+   },
+   "rank": 273,
+   "form": 0.269,
+   "last_match": "2026-09-24"
+  },
+  "Zhukayev B.": {
+   "elo": 1465.3,
+   "selo": {
+    "Hard": 1473.3,
+    "Grass": 1500.0
+   },
+   "rank": 237,
+   "form": 0.321,
+   "last_match": "2025-10-15"
+  },
+  "Zverev A.": {
+   "elo": 1976.9,
+   "selo": {
+    "Hard": 1924.0,
+    "Clay": 1893.3,
+    "Grass": 1745.6
+   },
+   "rank": 2,
+   "form": 0.767,
+   "last_match": "2026-10-04"
+  }
+ }
+}
