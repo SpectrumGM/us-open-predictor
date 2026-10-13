@@ -56,7 +56,14 @@ model export (`artifacts/`), so it runs without scikit-learn.
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
-pip install -r
+pip install -r requirements.txt
+# download atp_tennis.csv from Kaggle (dissfya/atp-tennis-2000-2023daily-pull) into data/raw/
+jupyter lab            # run notebooks/01_data.ipynb
+pytest                 # leakage, symmetry and API tests
+uvicorn app.main:app   # serve the web page and API locally
+```
+
+The dataset is not redistributed here; see its Kaggle page for the license.
 
 ## Layout
 
