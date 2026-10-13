@@ -32,7 +32,9 @@ def list_players():
 @app.get("/predict")
 def predict(a: str, b: str,
             surface: Literal["Hard", "Clay", "Grass"] = "Hard",
-            best_of: Literal[3, 5] = 5):
+            best_of: int = 5):
+    if best_of not in (3, 5):
+        raise HTTPException(400, "best_of must be 3 or 5")
     if a == b:
         raise HTTPException(400, "Choose two different players")
     for n in (a, b):

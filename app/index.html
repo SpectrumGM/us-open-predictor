@@ -35,7 +35,7 @@ $("go").onclick = async () => {
     surface: $("surface").value, best_of: $("bo").value});
   const r = await fetch("/predict?" + q);
   const j = await r.json();
-  if (!r.ok) { $("out").textContent = j.detail; return; }
+  if (!r.ok) { $("out").textContent = typeof j.detail === "string" ? j.detail : JSON.stringify(j.detail); return; }
   const pa = (j.p_a * 100).toFixed(1), pb = (j.p_b * 100).toFixed(1);
   $("out").innerHTML = '<div class="bar"><div style="width:' + pa + '%;background:#1f4e8c"></div>' +
     '<div style="width:' + pb + '%;background:#c0504d"></div></div>';
