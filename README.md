@@ -1,5 +1,7 @@
 # US Open Match & Tournament Prediction
 
+**Live demo:** https://us-open-predictor.onrender.com (free tier: the first load can take ~1 minute)
+
 Predicts ATP match outcomes and simulates the US Open bracket from the round of 16.
 The goal was an **honestly evaluated** pipeline, not a headline accuracy number:
 strict time-based validation, leakage tests, and comparison against bookmaker odds.
@@ -42,6 +44,13 @@ strict time-based validation, leakage tests, and comparison against bookmaker od
 - Feature-set and model-family choices were made while looking at 2015+ data, so the 2016-2026 numbers are not a pristine holdout.
 - Players are identified by "Surname I." strings; rare collisions are possible.
 - Hypothetical future pairs use head-to-head = 0.
+
+## API
+
+`GET /predict?a=Sinner J.&b=Alcaraz C.&surface=Hard&best_of=5` returns the win probability for two players,
+using their current Elo, surface Elo, rank and form. Rest days and head-to-head are set to neutral for
+hypothetical matches. Interactive docs are at `/docs`. The service is plain FastAPI with a small JSON
+model export (`artifacts/`), so it runs without scikit-learn.
 
 ## Reproduce
 

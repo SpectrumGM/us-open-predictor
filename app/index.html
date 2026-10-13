@@ -39,7 +39,10 @@ $("go").onclick = async () => {
   const pa = (j.p_a * 100).toFixed(1), pb = (j.p_b * 100).toFixed(1);
   $("out").innerHTML = '<div class="bar"><div style="width:' + pa + '%;background:#1f4e8c"></div>' +
     '<div style="width:' + pb + '%;background:#c0504d"></div></div>';
-  const bar = $("out").querySelectorAll(".bar div");
-  bar[0].textContent = j.a + " " + pa + "%"; bar[1].textContent = j.b + " " + pb + "%";
+  const row = document.createElement("div");
+  row.style.cssText = "display:flex;justify-content:space-between;margin-top:8px;font-weight:600";
+  const l = document.createElement("span"), r2 = document.createElement("span");
+  l.textContent = j.a + " " + pa + "%"; r2.textContent = j.b + " " + pb + "%";
+  row.append(l, r2); $("out").appendChild(row);
 };
 </script></body></html>
