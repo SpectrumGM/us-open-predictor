@@ -57,3 +57,22 @@ model export (`artifacts/`), so it runs without scikit-learn.
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r
+
+## Layout
+
+```
+app/              FastAPI service and web page
+artifacts/        exported model and player ratings (JSON)
+docs/             figures
+notebooks/        analysis notebook
+src/loader.py     load and clean the CSV
+src/elo.py        Elo and surface Elo
+src/features.py   form, rest, head-to-head
+src/model.py      features, logistic regression, walk-forward
+src/evaluate.py   log-loss, Brier, bootstrap CI, calibration
+src/bracket.py    bracket reconstruction and Monte Carlo
+src/backtest.py   player state, pair probabilities, title probabilities
+src/export.py     export model and current player state to artifacts/
+src/predict.py    dependency-free inference used by the API
+tests/            pytest (leakage, symmetry, API)
+```
